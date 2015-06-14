@@ -19,3 +19,10 @@ Appropriately labels the data set with descriptive variable names.
 From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 Good luck!
+
+# Files submitted
+
+A couple of files are included in this repo.  The run_analysis.r file completes the analysis and outputs a file
+in the required format.
+
+There is also a code bood file that explains the analysis.
