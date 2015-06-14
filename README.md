@@ -25,4 +25,6 @@ Good luck!
 A couple of files are included in this repo.  The run_analysis.r file completes the analysis and outputs a file
 in the required format.
 
-There is also a code bood file that explains the analysis.
+There is also a code book file that explains the analysis.
+
+I also uploaded the output from the R script which is called:  sensor_avg_by_act_sub.txt
